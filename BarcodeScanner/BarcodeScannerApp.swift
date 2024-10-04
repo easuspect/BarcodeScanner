@@ -15,3 +15,12 @@ struct BarcodeScannerApp: App {
         }
     }
 }
+
+
+
+
+
+
+
+
+//sdlvknsaldkvnasdlvkn
